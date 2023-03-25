@@ -1,0 +1,1 @@
+insert into songlist(songName,lyricist,singer,musicDirector)values('song1','sai','hareesh','jai'),('song2','rakesh','karim','kk');
